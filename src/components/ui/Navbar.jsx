@@ -90,7 +90,7 @@ export const Navbar = () => {
         text="Hubungi Kami"
         textClassName="ml-2"
         hoverBgColor="hover:bg-hover_primary"
-        onClick={() => window.open('https://wa.me/081227615859', '_blank')}
+        onClick={() => window.open('https://wa.me/+6281227615859', '_blank')}
         ariaLabel="whatsapp"
       />
       <div
